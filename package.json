@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dtcymmtc/yeah-cil/issues"
   },
-  "homepage": "https://github.com/dtcymmtc/yeah-cil#readme"
+  "homepage": "https://github.com/dtcymmtc/yeah-cil#readme",
+  "dependencies": {
+    "commander": "^2.19.0"
+  }
 }
